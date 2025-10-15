@@ -12,8 +12,8 @@ import javafx.scene.shape.*;
 import javafx.stage.Stage;
 
 /**
- *
- * @author 6324569
+ * https://github.com/QuentinProulx/Lab06
+ * @author 6324569 - Quentin Proulx
  */
 public class Lab0601 extends Application {
 
